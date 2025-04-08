@@ -10,7 +10,7 @@ function App() {
 
       <section className='grid md:grid-cols-3 gap-4'>
         {/* Dummy Crypto Cards */}
-        <div className='bg-white p-4 rounded-lg shadow'>Bitcoin - $66,000</div>
+        <div className='bg-white p-4 rounded-lg shadow'>Bitcoin - $66,0000</div>
         <div className='bg-white p-4 rounded-lg shadow'>Ethereum - $3,400</div>
         <div className='bg-white p-4 rounded-lg shadow'>Dogecoin - $0.08</div>
       </section>
